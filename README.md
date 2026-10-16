@@ -18,4 +18,8 @@ Step 4. Click Developer mode then click load unpacked.
 
 
 
-Step 5. Find the Celery OS file you extracted and click the folders until you see "No items match your search 
+Step 5. Find the Celery OS file you extracted and click the folders until you see "No items match your search" Click select folder.
+
+
+
+Step 6. Enable it, open a new tab and click keep it if you think its nice. :) 
